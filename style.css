@@ -1,0 +1,45 @@
+
+h1 {
+    text-align: center;
+    padding: 15px;
+    text-transform: uppercase;
+    font-size: 63px;
+    color: white
+}
+
+h2{
+    font-size: 24px;
+    margin: 20px;
+    color:black
+    
+}
+
+figure {
+    width: 400px;
+    height: 400px;
+    }
+    
+    figure img{
+    width: 100%;
+    }
+
+
+figcaption p i {
+    display: block;
+    text-align: center
+  }
+
+
+  .carousel-caption h5{
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 2px grey; 
+  }
+
+  .footer p {
+    color: white;
+  }
+
+
+
+ 
